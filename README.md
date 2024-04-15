@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nummun14
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Python, Java, and HTML
+- 👀 I mainly code in java and python
+- 🌱 I enjoy making simple games
 - 💞️ I’m currently working on a project with my friends
-- 👌I'm competing in FRC
+- 👌 I'm competing in FRC as a part of TRIGON 5990
 
