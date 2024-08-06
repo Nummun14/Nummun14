@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Nummun14<br>👀 I mainly code in java and python<br>🌱 I enjoy making simple games<br>💞️ I’m currently working on a project with my friends<br>👌 I'm competing in FRC as a part of TRIGON 5990
+👋 Hi, I’m @Nummun14<br>👀 I mainly code in java and python<br>🌱 I enjoy making simple games<br>💞️ I’m currently working on a project with my friends<br>👌 I'm competing in FRC as a member of the TRIGON 5990 robotics team 
 
 
 ## 🌐 Socials:
