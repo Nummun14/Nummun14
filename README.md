@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Nummun14<br>👀 I mainly code in java and python<br>🌱 I enjoy making simple games<br>💞️ I post weekly coding challenges as head of a programming club at STARTERIM<br>👌 I'm competing in FRC as a member of TRIGON 5990
+👋 Hi, I’m @Nummun14<br>👀 I mainly code in java and python<br>🌱 I enjoy making simple games with Unity, LibGDX, and PyGame<br>💞️ I post weekly coding challenges as head of a programming club at STARTERIM<br>👌 I'm competing in FRC as a member of TRIGON 5990
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Nummun_14) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nahum-Elbaum) 
