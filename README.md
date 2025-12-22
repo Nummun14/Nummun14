@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Nummun14<br>👀 I mainly code in java and python<br>🌱 I enjoy making  games with Unity, LibGDX, and PyGame<br>🥰 head of youth technology club at STARTERIM<br>👌 I'm competing in FRC as a member of TRIGON 5990<br>🎓 studying CS as a student at the open university of Israel 
+👋 Hi, I’m @Nummun14<br>👀 I mainly code in java and python<br>🌱 I enjoy making  games with Unity, LibGDX, and PyGame<br>👌 I'm competing in FRC as a member of TRIGON 5990<br>🎓 studying CS as a student at the open university of Israel 
 
 
 ## 🌐 Socials:
