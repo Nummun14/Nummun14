@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 I mainly code in java and python<br>🌱 I enjoy making games with Unity, LibGDX, and PyGame<br>👌 I'm competing in FRC as a member of TRIGON 5990<br>🎓 studying CS as a student at the open university of Israel
+👀 I mainly code in java and python<br>🌱 I enjoy making games with Unity, LibGDX, and PyGame<br>👌 I'm the Programming Lead at TRIGON 5990<br>🎓 studying CS as a student at the open university of Israel
 
 
 ## 🌐 Socials:
